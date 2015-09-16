@@ -1,0 +1,45 @@
+h1{
+	color:blue;
+}
+.ClassyBox{
+	margin-left: 35px;
+}
+.FizzyClass{
+	float:left;
+	display: inline-block;
+}
+.Fizz{
+	color:#999999;
+	border: 1px solid #999999;
+	box-shadow: 1px 1px #999999;
+}
+.Fizz:hover{
+	background-color: #CCCCCC;
+	cursor: pointer;
+}
+.Buzz{
+	color:#FEC435;
+	border: 1px solid #FEC435;
+	box-shadow: 1px 1px #FEC435;
+}
+.Buzz:hover{
+	background-color: #FFF0E0;
+	cursor: pointer;
+}
+.FizzBuzz{
+	color: #FF0000;
+	border: 1px solid #FF0000;
+	box-shadow: 1px 1px #FF0000;
+}
+.FizzBuzz:hover{
+	background-color: #FFCCCB;
+	cursor: pointer;
+}
+.totals{
+	width: 300px;
+	height: 200px;
+	margin-left:150px; 
+	border: 1px solid black; 
+	padding-left: 20px;
+	box-shadow: 1px 1px #3D3D3D;
+}
